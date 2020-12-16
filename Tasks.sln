@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task 1 - Tuple", "Task 1 - 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task 2 - Dictionary", "Task 2 - Dictionary\Task 2 - Dictionary.vcxproj", "{D9F785BE-4CCB-4849-ACCB-3542CABC90F6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task 3 - Decode", "Task 3 - C++ Decode\Task 3 - Decode.vcxproj", "{7C6AED27-716B-4020-B3C3-915AB97981F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{D9F785BE-4CCB-4849-ACCB-3542CABC90F6}.Release|x64.Build.0 = Release|x64
 		{D9F785BE-4CCB-4849-ACCB-3542CABC90F6}.Release|x86.ActiveCfg = Release|Win32
 		{D9F785BE-4CCB-4849-ACCB-3542CABC90F6}.Release|x86.Build.0 = Release|Win32
+		{7C6AED27-716B-4020-B3C3-915AB97981F2}.Debug|x64.ActiveCfg = Debug|x64
+		{7C6AED27-716B-4020-B3C3-915AB97981F2}.Debug|x64.Build.0 = Debug|x64
+		{7C6AED27-716B-4020-B3C3-915AB97981F2}.Debug|x86.ActiveCfg = Debug|Win32
+		{7C6AED27-716B-4020-B3C3-915AB97981F2}.Debug|x86.Build.0 = Debug|Win32
+		{7C6AED27-716B-4020-B3C3-915AB97981F2}.Release|x64.ActiveCfg = Release|x64
+		{7C6AED27-716B-4020-B3C3-915AB97981F2}.Release|x64.Build.0 = Release|x64
+		{7C6AED27-716B-4020-B3C3-915AB97981F2}.Release|x86.ActiveCfg = Release|Win32
+		{7C6AED27-716B-4020-B3C3-915AB97981F2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
